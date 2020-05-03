@@ -8,5 +8,4 @@ public class Math {
 		this.a=a;
 		this.b=b;
 	}
-	
 }
